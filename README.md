@@ -1,7 +1,7 @@
-# gil-readme-generator-project
+# Gil-Rosario-ReadMe-generator-project
 
   ## Description
-This app will dynamically generate a readme file using a series of prompts using the inquirer 
+This app dynamically generates a professional Readme.md file from a user's input using the Inquirer npm package.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -17,7 +17,7 @@ undefined
 git clone this repo, open repo folder in visual studio code, update the index.js to include a series of
 
 ## Contributing
-n/a
+A user may clone this repo and contribute into the source code provided they maintain the root source of the code
 
 ## Tests
-n/a
+N/A 
