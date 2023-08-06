@@ -1,7 +1,7 @@
-# GR-professional-readme-generator-project
+# gr-professional-readme-generator-project
 
   ## Description
-This project will dynamic generate a professional readme using prompts utilizing code from the inquire node js utility as well as custom js code.
+This project will dynamically generated a professional readme using prompts utilizing code from the inquirer node js utility as well as custom js code.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,10 +11,10 @@ This project will dynamic generate a professional readme using prompts utilizing
 - [Tests](#tests)
 
 ## Installation
-First, clone this git repo `git clone {git-url/reponame}`. Second, install the node js and npm package. Third, install the inquirer 8.2.4  npm package. Then  from the command excute the node -y init command to initialize the node project. From here you can make your code updates as necessary.
+First clode repo..`git clone https://github.com/grosario1/gil-professional-readme-generator.git`. Second, install the node js and npm utility. Third, initiate the node project...`npm init -y`. Lastly, install the inquirer 8.2.4 packages...`npm i inquirer@8.2.4`. From this point, you can now update and add your custom js code.
 
 ## Usage
-After cloning repo, go to or change directories to the Develop directory and from here run...`node index.js`. Then follow the prompts .
+After cloning, repo go to or change directories to the Develop directory and from here run ...`node index.js`. Then follow the prompts.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
@@ -23,13 +23,12 @@ After cloning repo, go to or change directories to the Develop directory and fro
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
-Open a new pull requests or new issue if you would like to contribute to this project.
+Open a new pull request or new issue if your would like to contribute to the project.
 
 ## Tests
-Follow the same instructions from the usage information from above. 
+Follow the instructions from the usage information from above.
 
 ## Contact Info
 For more questions, feel free to contact me:
-GitHub: [https://github.com/grosario1](https://github.com/https://github.com/grosario1)
+GitHub: [grosario1](https://github.com/grosario1)
 Email: [grosario@alum.quinnipiac.edu](mailto:grosario@alum.quinnipiac.edu)
-
