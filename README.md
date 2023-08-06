@@ -20,7 +20,8 @@ The ReadMe was generated using code from the inquirer node js package including 
 ## Usage
 As shown below, from the repo folder you cloned within the command line, from the command line change directories to go into the Develop folder (cd Develop/) then run 'node index.js'. You will now be prompted to input the readme information based on the prompts. Once you complete the prompts, a new ReadMe file will be generated that will include the information you entered within the prompts. See demo below:
 
-![Alt text]("./../Screen%20Recording%202023-08-06%20at%203.57.49%20PM.mov)
+
+![Demo](../gil-professional-readme-generator/Screen%20Recording%202023-08-06%20at%203.57.49%20PM.mov)
 
 
 ## License
