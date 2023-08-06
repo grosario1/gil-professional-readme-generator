@@ -91,7 +91,6 @@ ${data.tests}
 For more questions, feel free to contact me:
 GitHub: [${data.github}](https://github.com/${data.github})
 Email: [${data.email}](mailto:${data.email})
-
 `;
 }
 
